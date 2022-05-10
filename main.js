@@ -77,7 +77,7 @@ ScrollReveal({
   #services .card,
   #recem,
   #recem header,
-  #recem .card,
+  #recem gallery
   #about, 
   #about header, 
   #about .content`)
