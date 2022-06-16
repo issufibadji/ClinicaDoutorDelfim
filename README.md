@@ -1,10 +1,10 @@
-<h1 align="center">
+<h1 align="center" color=" ">
    DoutorDelfim
 </h1>
 
 <p align="center">
-    <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#cloud-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#layout">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#memo-licença">Licença</a>
@@ -23,7 +23,7 @@
 
  ![ConsultoriClinica](https://user-images.githubusercontent.com/45535344/174165483-fd31de2e-7ac5-431f-842a-b1b73f715fcc.gif)
  
-## 💻Sobre
+## :book: Sobre
 O **consultoriaClinica**
  A consultoria surge, portanto, como uma solução para médicos, sociedades médicas, clínicas e hospitais que desejam estabelecer um negócio bem estruturado, eficiente e dentro dos regulamentos aplicáveis ao setor.<br>
 O projeto foi desenvolvido durante a [Maratona Discover 1](https://maratonadiscover.rocketseat.com.br/), realizada pela [Rocketseat](https://www.rocketseat.com.br/)
@@ -32,7 +32,7 @@ O projeto foi desenvolvido durante a [Maratona Discover 1](https://maratonadisco
 O projeto está hospedado no Github Pages
 > https://issufibadji.github.io/ClinicaDoutorDelfim/
 
-## 🚀Tecnologias
+## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [HTML]()
